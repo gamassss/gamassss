@@ -6,16 +6,16 @@ _Currently a Back-end Engineer Intern at Direktorat Jenderal Pendidikan Tinggi, 
 <a href="https://go.dev" target="_blank">
     <img align="left" alt="Gamas Namara Akbar | Medium" height="28px" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />
 </a>
-<a href="https://go.dev" target="_blank">
+<a href="https://nodejs.org" target="_blank">
     <img align="left" alt="Gamas Namara Akbar | Medium" height="28px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
 </a>
-<a href="https://go.dev" target="_blank">
+<a href="https://elastic.co" target="_blank">
     <img align="left" alt="Gamas Namara Akbar | Medium" height="28px" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" />
 </a>
-<a href="https://go.dev" target="_blank">
+<a href="https://java.com" target="_blank">
     <img align="left" alt="Gamas Namara Akbar | Medium" height="28px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 </a>
-<a href="https://go.dev" target="_blank">
+<a href="https://python.org" target="_blank">
     <img align="left" alt="Gamas Namara Akbar | Medium" height="28px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 </a>
 <br>
@@ -30,11 +30,11 @@ _Currently a Back-end Engineer Intern at Direktorat Jenderal Pendidikan Tinggi, 
 **_Connect with me:_**
 
 <a href="https://www.linkedin.com/in/gamas-namara-akbar/" target="_blank">
-   <img align="left" alt="Gamas Namara Akbar | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+   <img align="left" alt="Gamas Namara Akbar | Linkedin" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="mailto:gamassakbar@gmail.com" target="_blank">
-    <img align="left" alt="Gamas Namara Akbar | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img align="left" alt="Gamas Namara Akbar | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://medium.com/@gamassakbar" target="_blank">
-    <img align="left" alt="Gamas Namara Akbar | Medium" width="24px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+    <img align="left" alt="Gamas Namara Akbar | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
 </a>
