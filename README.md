@@ -4,19 +4,22 @@ _Currently a Back-end Engineer Intern at Direktorat Jenderal Pendidikan Tinggi, 
 **_Current Tech Stacks:_**
 
 <a href="https://go.dev" target="_blank">
-    <img align="left" alt="Gamas Namara Akbar | Medium" height="28px" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />
+    <img align="left" alt="Golang" height="28px" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />
 </a>
 <a href="https://nodejs.org" target="_blank">
-    <img align="left" alt="Gamas Namara Akbar | Medium" height="28px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+    <img align="left" alt="NodeJS" height="28px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
 </a>
 <a href="https://elastic.co" target="_blank">
-    <img align="left" alt="Gamas Namara Akbar | Medium" height="28px" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" />
+    <img align="left" alt="Elasticsearch" height="28px" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" />
 </a>
 <a href="https://java.com" target="_blank">
-    <img align="left" alt="Gamas Namara Akbar | Medium" height="28px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+    <img align="left" alt="Java" height="28px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 </a>
 <a href="https://python.org" target="_blank">
-    <img align="left" alt="Gamas Namara Akbar | Medium" height="28px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+    <img align="left" alt="Python" height="28px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+</a>
+<a href="https://nextjs.org" target="_blank">
+    <img align="left" alt="NextJS" height="28px" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" />
 </a>
 <br>
 <br>
