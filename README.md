@@ -6,8 +6,8 @@ _Currently a Back-end Engineer Intern at Direktorat Jenderal Pendidikan Tinggi, 
 <a href="https://go.dev" target="_blank">
     <img align="left" alt="Golang" height="28px" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />
 </a>
-<a href="https://nodejs.org" target="_blank">
-    <img align="left" alt="NodeJS" height="28px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+<a href="https://typescriptlang.org" target="_blank">
+    <img align="left" alt="TypeScript" height="28px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
 </a>
 <a href="https://elastic.co" target="_blank">
     <img align="left" alt="Elasticsearch" height="28px" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" />
