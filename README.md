@@ -1,5 +1,5 @@
 ## Gamas Namara Akbar
-_Still an undergraduate **software engineer** specializing in **backend**. I enjoy working on the unseen, yet critical parts of software, but I’m actually into frontend too, like using Next.js ‘cause it’s just cool and aesthetic tho. ✨_
+_Still an undergraduate **software engineer** specializing in **backend**. I enjoy working on the unseen, yet critical parts of software, but I’m actually into frontend too, like using Next.js. ✨_
 
 **_Current Tech Stacks:_**
 
