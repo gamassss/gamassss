@@ -1,5 +1,8 @@
 ## Gamas Namara Akbar
-_Still an undergraduate **software engineer** specializing in **backend**. I enjoy working on the unseen, yet critical parts of software, but I’m actually into frontend too, like using Next.js. ✨_
+_Fresh grad in Informatics, focused on **software engineering**, especially **backend**. I enjoy working on the unseen, yet critical parts of software, but I’m actually into frontend too, like using Next.js._
+
+**_Portfolio:_**
+🌐 [gamassakbar.tech](https://gamassakbar.tech)
 
 **_Current Tech Stacks:_**
 
@@ -32,7 +35,7 @@ _Still an undergraduate **software engineer** specializing in **backend**. I enj
 
 **_Connect with me:_**
 
-<a href="https://www.linkedin.com/in/gamas-namara-akbar/" target="_blank">
+<a href="https://www.linkedin.com/in/gamas-akbar/" target="_blank">
    <img align="left" alt="Gamas Namara Akbar | Linkedin" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="mailto:gamassakbar@gmail.com" target="_blank">
@@ -41,3 +44,4 @@ _Still an undergraduate **software engineer** specializing in **backend**. I enj
 <a href="https://medium.com/@gamassakbar" target="_blank">
     <img align="left" alt="Gamas Namara Akbar | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
 </a>
+
