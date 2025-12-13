@@ -1,8 +1,10 @@
 ## Gamas Namara Akbar
-_Fresh grad in Informatics, focused on **software engineering**, especially **backend**. I enjoy working on the unseen, yet critical parts of software, but I’m actually into frontend too, like using Next.js._
 
-**_Portfolio:_**
-🌐 [gamassakbar.tech](https://gamassakbar.tech)
+_Fresh grad in Informatics, focused on **software engineering**, especially **backend**. I enjoy working on the unseen, yet critical parts of software, but I’m actually into frontend too, like using Next.js._ 
+
+
+**_More about me:_**
+[gamassakbar.tech](https://gamassakbar.tech)
 
 **_Current Tech Stacks:_**
 
@@ -44,4 +46,5 @@ _Fresh grad in Informatics, focused on **software engineering**, especially **ba
 <a href="https://medium.com/@gamassakbar" target="_blank">
     <img align="left" alt="Gamas Namara Akbar | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
 </a>
+
 
