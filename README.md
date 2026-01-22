@@ -4,7 +4,7 @@ _Fresh grad in Informatics, focused on **software engineering**, especially **ba
 
 
 **_More about me:_**
-[gamassakbar.tech](https://gamassakbar.tech)
+[gamassakbar.tech](https://gamasakbar.site)
 
 **_Current Tech Stacks:_**
 
@@ -46,5 +46,6 @@ _Fresh grad in Informatics, focused on **software engineering**, especially **ba
 <a href="https://medium.com/@gamassakbar" target="_blank">
     <img align="left" alt="Gamas Namara Akbar | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
 </a>
+
 
 
